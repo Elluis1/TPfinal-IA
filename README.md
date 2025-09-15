@@ -6,8 +6,7 @@ pip install -r "requirements.py"
 
 ## Bash
 python main.py
-
-## Create the database (if it doesn’t exist).
+This command create the database (if it doesn’t exist).
 
 ## Choose an option
 1) Registrar persona
