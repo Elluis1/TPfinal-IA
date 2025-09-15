@@ -1,5 +1,9 @@
 How to use main.py
 
+Remember to install requirements
+
+pip install -r "requirements.py"
+
 ## Bash
 python main.py
 
